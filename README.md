@@ -1,21 +1,3 @@
-<!-- ## Hi there 👋 --> 
-
-<!--
-**hiralshukla/hiralshukla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <table border="0" align="right">
   <tr>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hiralshukla&theme=default" width="420"/> </td>
@@ -43,6 +25,7 @@ Feel free to reach out: hiralshukla@ufl.edu
     <img src="https://skillicons.dev/icons?i=python,cpp,bash"/>
     <img src="https://skillicons.dev/icons?i=r,java,git,vscode,figma" />
     <img src="https://skillicons.dev/icons?i=pycharm,clion"/>
+    <img src="https://skillicons.dev/icons?i=docker,postgresql,vite"/>
   </a>
 </p>
 </div>
