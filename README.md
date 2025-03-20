@@ -22,10 +22,10 @@ Feel free to reach out: hiralshukla@ufl.edu
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,html,css,javascript"/>
-    <img src="https://skillicons.dev/icons?i=python,cpp,bash"/>
-    <img src="https://skillicons.dev/icons?i=r,java,git,vscode,figma" />
-    <img src="https://skillicons.dev/icons?i=pycharm,clion"/>
-    <img src="https://skillicons.dev/icons?i=docker,postgresql,vite"/>
+    <img src="https://skillicons.dev/icons?i=python,cpp,bash,flask"/>
+    <img src="https://skillicons.dev/icons?i=r,java,git,vscode"/>
+    <img src="https://skillicons.dev/icons?i=figma,pycharm,clion,powershell"/>
+    <img src="https://skillicons.dev/icons?i=docker,postgresql,vite,ubuntu"/>
   </a>
 </p>
 </div>
