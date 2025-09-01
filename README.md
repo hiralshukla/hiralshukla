@@ -12,7 +12,7 @@
 Hi there! 👋 
 
 
-My name is Hiral Shukla and I am a third-year Computer Science major and Business Administration minor studying at the University of Florida. I'm passionate about full-stack development, data science and AI, and computer engineering. I also have interest in socioeconomics and finance, literary magazine design, ornithology, and so much more!  
+My name is Hiral Shukla and I am a third-year Computer Science major, with minors in Business Administration and Economics studying at the University of Florida. I'm passionate about full-stack development, data science and AI, and computer engineering. I also have interest in socioeconomics and finance, literary magazine design, ornithology, and so much more!  
 
 I loved working at the Florida Museum of Natural History in the AI for Bio/Cultural Diversity project and at UF's Open Source Club for Terminal Monopoly. I also have a personal project on animal migration!
 
